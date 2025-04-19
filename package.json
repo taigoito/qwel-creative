@@ -1,5 +1,5 @@
 {
-  "name": "qwel-craft-template",
+  "name": "qwel-creative",
   "version": "1.1",
   "description": "",
   "main": "init.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taigoito/qwel-craft-template.git"
+    "url": "git+https://github.com/taigoito/qwel-creative.git"
   },
   "author": "Taigo Ito",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/taigoito/qwel-craft-template/issues"
+    "url": "https://github.com/taigoito/qwel-creative/issues"
   },
-  "homepage": "https://github.com/taigoito/qwel-craft-template#readme"
+  "homepage": "https://github.com/taigoito/qwel-creative#readme"
 }
