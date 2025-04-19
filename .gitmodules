@@ -1,0 +1,33 @@
+[submodule "studies"]
+	path = studies
+	url = https://github.com/taigoito/qwel-creative-studies
+[submodule "studies-in-processing"]
+	path = studies-in-processing
+	url = https://github.com/taigoito/qwel-creative-studies-in-processing
+[submodule "book"]
+	path = book
+	url = https://github.com/taigoito/qwel-craft-book
+[submodule "bounce"]
+	path = bounce
+	url = https://github.com/taigoito/qwel-creative-bounce
+[submodule "calligraphy"]
+	path = calligraphy
+	url = https://github.com/taigoito/qwel-craft-calligraphy
+[submodule "flame"]
+	path = flame
+	url = https://github.com/taigoito/qwel-creative-flame
+[submodule "maze"]
+	path = maze
+	url = https://github.com/taigoito/qwel-craft-maze
+[submodule "rainydays"]
+	path = rainydays
+	url = https://github.com/taigoito/qwel-craft-rainydays
+[submodule "ray"]
+	path = ray
+	url = https://github.com/taigoito/qwel-craft-ray
+[submodule "stg"]
+	path = stg
+	url = https://github.com/taigoito/qwel-craft-stg
+[submodule "dice"]
+	path = dice
+	url = https://github.com/taigoito/qwel-craft-dice
